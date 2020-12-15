@@ -1,0 +1,19 @@
+{
+  "name": "plygrnd",
+  "version": "1.0.0",
+  "description": "Playground for testing NPM publishing with Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moaazsidat/plygrnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moaazsidat/plygrnd/issues"
+  },
+  "homepage": "https://github.com/moaazsidat/plygrnd#readme"
+}
