@@ -18,10 +18,10 @@
   "homepage": "https://github.com/moaazsidat/plygrnd#readme",
   "release": {
     "plugins": [
-      "@semantic-release/npm",
-      "@semantic-release/github",
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
+      "@semantic-release/npm",
+      "@semantic-release/github",
       "@semantic-release/git"
     ]
   },
