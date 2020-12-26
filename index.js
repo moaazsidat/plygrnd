@@ -1,5 +1,5 @@
 function main() {
-  return 'plygrnd 1.0.1';
+  return 'plygrnd version 1.0.1';
 }
 
 module.exports = main;
