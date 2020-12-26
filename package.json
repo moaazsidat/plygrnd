@@ -16,13 +16,6 @@
     "url": "https://github.com/moaazsidat/plygrnd/issues"
   },
   "homepage": "https://github.com/moaazsidat/plygrnd#readme",
-  "release": {
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      "@semantic-release/git"
-    ]
-  },
   "devDependencies": {
     "@semantic-release/git": "^9.0.0"
   }
