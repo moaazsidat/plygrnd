@@ -1,7 +1,5 @@
-
 function main() {
-    console.log("plygrnd");
-    return "plygrnd";
+  return 'plygrnd 1.0.1';
 }
 
-module.exports = main
+module.exports = main;
